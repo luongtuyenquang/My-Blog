@@ -86,10 +86,10 @@ const Skills: React.FC = () => {
       </div>
       <div className='skills__group'>
         <p className='skills__title' data-aos='fade-right' data-aos-duration='700'>
-          Other:
+          Back-end:
         </p>
         <div className='skills__list'>
-          {mockSkillsData.otherData.map((item) => {
+          {mockSkillsData.backendData.map((item) => {
             return (
               <div
                 className='skills__item'

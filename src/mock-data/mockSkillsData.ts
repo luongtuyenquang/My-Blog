@@ -7,19 +7,19 @@ export const frameworkData = [
   },
   {
     id: 2,
-    name: 'NextJS',
-    link: '/images/skills/nextjs.png',
+    name: 'Redux',
+    link: '/images/skills/redux.png',
     animation: 'fade-down',
   },
   {
     id: 3,
-    name: 'Redux',
-    link: '/images/skills/redux.png',
+    name: 'NextJS',
+    link: '/images/skills/nextjs.png',
     animation: 'fade-up',
   },
   {
     id: 4,
-    name: 'Vue',
+    name: 'VueJS',
     link: '/images/skills/vue.png',
     animation: 'fade-down',
   },
@@ -106,11 +106,26 @@ export const versionControlData = [
   },
 ]
 
-export const otherData = [
+export const backendData = [
   {
     id: 1,
-    name: 'Firebase',
-    link: '/images/skills/firebase.png',
+    name: 'NodeJS',
+    link: '/images/skills/nodejs.png',
     animation: 'fade-up',
   },
+  {
+    id: 2,
+    name: 'ExpressJS',
+    link: '/images/skills/expressjs.png',
+    animation: 'fade-down',
+  },
 ]
+
+// export const otherData = [
+//   {
+//     id: 1,
+//     name: 'Firebase',
+//     link: '/images/skills/firebase.png',
+//     animation: 'fade-up',
+//   },
+// ]
